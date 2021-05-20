@@ -1,5 +1,5 @@
 # personal-information-manager.
-used to make all the daily activitie easy.
+used to make all the daily activities easy.
 this is my mini project. 
 i made a simple login and registration page to enter into the site.
 there are three modules in this project.
